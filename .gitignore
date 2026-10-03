@@ -13,3 +13,5 @@ __pycache__/
 # sistema
 .DS_Store
 NOTAS.md
+# Editor backups
+*.save
