@@ -1,13 +1,13 @@
 # cp-6bm1-equipoNN — Cómputo Paralelo · 6BM1 · 27/1
 
-Repositorio del equipo NN para las Prácticas 1–6 y el proyecto integrador.
+Repositorio del equipo 04 para las Prácticas 1–6 y el proyecto integrador.
 
 ## Integrantes
 
 | Nombre | Boleta | Usuario GitHub |
 |---|---|---|
 |Dimas Gonzalez Santiago |2024631046 |linkgamer10700 |
-| Cristian Enrique Mendieta Mondragon | 2024630811 | Cr1st1an703 |
+|Mendieta Mondragon Cristian Enrique | 2024630811 | Cr1st1an703 |
 |Miranda Ferreyra Uriel |2024630834 |UrielitoM1X |
 
 ## Fichas técnicas de hardware
@@ -26,7 +26,7 @@ Repositorio del equipo NN para las Prácticas 1–6 y el proyecto integrador.
 | **GPU (si hay)** | NVIDIA GeForce RTX 3060 Ti (Driver: 580.178.04, CUDA: 13.0) |
 | **Condiciones** | PC de escritorio, gobernador de CPU schedutil, sin otras aplicaciones pesadas abiertas durante la ejecución. |
 
-### Cristian Enrique Mendieta Mondragon
+### Mendieta Mondragon Cristian Enrique 
 | Campo | Valor |
 | :--- | :--- |
 | **Modelo de CPU** | AMD Ryzen 5 3600 6-Core Processor |
@@ -41,7 +41,7 @@ Repositorio del equipo NN para las Prácticas 1–6 y el proyecto integrador.
 | **GPU (si hay)** | NVIDIA GeForce RTX 3060 Ti (Driver: 580.178.04, CUDA: 13.0) |
 | **Condiciones** | PC de escritorio, gobernador de CPU schedutil, sin otras aplicaciones pesadas abiertas durante la ejecución. |
 
-### Uriel Miranda Ferreyra
+### Miranda Ferreyra Uriel
 | Campo | Valor |
 | :--- | :--- |
 | **Modelo de CPU** | AMD Ryzen 5 3600 6-Core Processor |
@@ -58,9 +58,3 @@ Repositorio del equipo NN para las Prácticas 1–6 y el proyecto integrador.
 
 ### Aclaraciones
 En el desarrollo de las practicas y el proyecto para la materia, el equipo opto por utilizar un equipo compartido el cual es usado remotamente como servidor privado, es por eso que los datos en las tablas son las mismas.
-
-## Convenciones
-
-- Rama `main` siempre funcional; trabajo en ramas `practicaN/...` con pull request.
-- Mensajes de commit descriptivos; commits de los tres integrantes.
-- Cada práctica se entrega con una etiqueta (`practica1`, `practica2`, ...).
