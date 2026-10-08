@@ -15,3 +15,5 @@ __pycache__/
 NOTAS.md
 # Editor backups
 *.save
+
+echo "*.swp" >> .gitignore
