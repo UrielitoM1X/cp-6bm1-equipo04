@@ -26,7 +26,7 @@ Repositorio del equipo NN para las Prácticas 1–6 y el proyecto integrador.
 | **GPU (si hay)** | NVIDIA GeForce RTX 3060 Ti (Driver: 580.178.04, CUDA: 13.0) |
 | **Condiciones** | PC de escritorio, gobernador de CPU schedutil, sin otras aplicaciones pesadas abiertas durante la ejecución. |
 
-### El chis
+### Cristian Enrique Mendieta Mondragon
 | Campo | Valor |
 | :--- | :--- |
 | **Modelo de CPU** | AMD Ryzen 5 3600 6-Core Processor |
