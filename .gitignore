@@ -6,7 +6,7 @@ practicas/practica1/src/hello_omp
 *.o
 *.out
 # entornos y cachés
-cp-env/
+.cp-env/
 __pycache__/
 .ipynb_checkpoints/
 *.pyc
